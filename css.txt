@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="lv">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LearnTrack - Tehniskie Risinājumi un Dizains</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+<nav>
+<ul>
+<li><a href="index.html">Sākumlapa</a></li>
+<li><a href="problem.html">Problēma</a></li>
+<li><a href="features.html">Funkcijas</a></li>
+<li><a href="target.html">Kam paredzēts</a></li>
+<li><a href="structure.html">Struktūra</a></li>
+<li><a href="tech.html" class="active">Tehniskais Risinājums</a></li>
+</ul>
+</nav>
+</header>
+
+<div class="container">
+<h1>Tehniskie risinājumi un Dizains</h1>
+
+[span_3](start_span)<h2>🎨 Krāsu gamma[span_3](end_span)</h2>
+
+<div class="color-swatch-container">
+<div class="color-swatch primary-color">
+Primārā: #3E2513
+</div>
+<div class="color-swatch secondary-color">
+Sekundārā: #F3E3D8
+</div>
+<div class="color-swatch accent-color-1">
+Akcents 1
+</div>
+<div class="color-swatch accent-color-2">
+Akcents 2
+</div>
+</div>
+
+[span_4](start_span)<p>Plus 2-3 akcentkrāsas funkcionalitātei[span_4](end_span).</p>
+
+<h2>💻 Tehniskā Specifikācija</h2>
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
+<div class="feature-box" style="flex: 1;">
+<h3>FRONTEND</h3>
+<ul>
+[span_5](start_span)<li>HTML5 struktūrai[span_5](end_span)</li>
+[span_6](start_span)<li>CSS3 dizainam[span_6](end_span)</li>
+[span_7](start_span)<li>JAVASCRIPT interaktivitātei[span_7](end_span)</li>
+</ul>
+</div>
+
+<div class="feature-box" style="flex: 1;">
+<h3>BACKEND</h3>
+<ul>
+[span_8](start_span)<li>PHP servera loģikai[span_8](end_span)</li>
+[span_9](start_span)<li>MySQL datubāzei[span_9](end_span)</li>
+[span_10](start_span)<li>RESTful API[span_10](end_span)</li>
+</ul>
+</div>
+
+<div class="feature-box" style="flex: 1;">
+<h3>RESPONSIVITĀTE</h3>
+[span_11](start_span)<p>Nodrošina ierīču atbalstu[span_11](end_span).</p>
+<ul>
+[span_12](start_span)<li>Desktop optimizācija[span_12](end_span)</li>
+[span_13](start_span)<li>Tablet pielāgošana[span_13](end_span)</li>
+[span_14](start_span)<li>Mobilā versija[span_14](end_span)</li>
+</ul>
+</div>
+</div>
+
+</div>
+</body>
+</html>
